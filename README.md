@@ -1,1 +1,1 @@
-# HeartDiseasePrediction
+# TenYears CHD Risk Prediction
